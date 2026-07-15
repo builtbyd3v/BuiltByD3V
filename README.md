@@ -6,7 +6,7 @@ I enjoy learning new technologies, building projects from scratch, and sharing m
  
 ## Current Focus
  
-- Building **samehere.dev**, a student networking platform with AI-powered peer matching and .edu email verification
+- Building **samehere.dev**, a student networking platform with AI-native features and peer matching
 - Completing CodePath's AI110, WEB103, and TIP101 courses
 - Strengthening my skills in React, Next.js, TypeScript, and AI-integrated development
 - Seeking Software Engineering internships for Fall 2026, Spring 2027, and Summer 2027
