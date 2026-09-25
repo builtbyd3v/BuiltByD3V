@@ -1,27 +1,24 @@
 # Hi, I'm Dev 👋
- 
-Software Engineering student at Western Governors University with interests in full-stack development, AI engineering, and building products that solve real-world problems.
- 
-I enjoy learning new technologies, building projects from scratch, and sharing my journey as I work toward a career in software engineering.
- 
+
+Software Engineering student at Western Governors University, working toward a B.S. expected Spring 2027. I like full-stack development and building products people can actually use.
+
+I enjoy learning new technologies, shipping projects, and sharing what I'm working on.
+
 ## Current Focus
- 
-- Building **samehere.dev**, a student networking platform with AI-native features and peer matching
-- Completed CodePath's AI110, WEB103, and TIP101 courses.
-- Strengthening my skills in React, Next.js, TypeScript, and AI-integrated development
-- Seeking Software Engineering internships for Spring 2027 and Summer 2027
+
+- Building **[samehere.dev](https://www.samehere.dev)**, a live student networking app with auth, a stage-labeled feed, public portfolios, realtime DMs, search, and block/report
+- Completed CodePath's WEB103, AI110, and TIP101 (Jun–Aug 2026)
+- Strengthening my skills in React, Next.js, and TypeScript
 
 ## Tech Stack
- 
-**Languages:** TypeScript, JavaScript, Python, SQL
- 
-**Frontend:** React, Next.js, Tailwind CSS
- 
-**APIs:** REST APIs
- 
-**Databases:** PostgreSQL, Supabase
 
-**Tools:** Git, GitHub, Vercel, Claude Code, Cursor
+**Languages:** TypeScript, JavaScript, Python, SQL, HTML, CSS
+
+**Frameworks:** React, Next.js, Tailwind CSS
+
+**APIs:** REST APIs
+
+**Tools:** Git, PostgreSQL, Supabase, Vercel, Claude Code, Cursor
 
 ## Connect
 
@@ -30,4 +27,3 @@ I enjoy learning new technologies, building projects from scratch, and sharing m
 💼 LinkedIn: https://linkedin.com/in/builtbydev
 
 📧 Email: [contact@builtbyd3v.com](mailto:contact@builtbyd3v.com)
-
